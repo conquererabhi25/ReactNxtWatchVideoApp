@@ -1,0 +1,23 @@
+.notFoundImage {
+  height: 70vh;
+  width: 40vw;
+  margin-top: 10px;
+}
+
+.notFoundMainPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  margin-top: 10px;
+}
+
+.notFoundSecondDiv {
+  display: flex;
+  height: 100vh;
+}
+
+.textBox {
+  text-align: center;
+}

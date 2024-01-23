@@ -1,0 +1,28 @@
+.thumbnailUrl {
+  height: 18vh;
+  width: 18vw;
+}
+
+.eachList {
+  display: flex;
+  margin-bottom: 14px;
+}
+
+.videoInfoBox {
+  display: flex;
+  flex-direction: column;
+  height: 3vh;
+  padding: 5px;
+  line-height: 0rem;
+}
+
+.video-info2 {
+  display: flex;
+}
+
+.page-title-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+}

@@ -1,0 +1,112 @@
+.getItButton {
+  background-color: transparent;
+  border: 2px solid #00306e;
+  color: #00306e;
+  width: 10vw;
+  height: 5vh;
+  cursor: pointer;
+}
+
+.cancelButton {
+  background-color: transparent;
+  border: none;
+  font-weight: bold;
+  align-self: flex-start;
+  cursor: pointer;
+}
+
+.videoSearchInput {
+  width: 25vw;
+  height: 4vh;
+  padding: 4px;
+}
+
+.video-unorderedList {
+  display: flex;
+  list-style: none;
+  width: 90vw;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
+
+.videoImage {
+  height: 15vh;
+  width: 13vw;
+}
+
+.video-list-item {
+  margin: 5px;
+  cursor: pointer;
+}
+
+.videoInfoBox1 {
+  display: flex;
+}
+
+.videoInfoBoxS {
+  display: flex;
+  justify-content: space-between;
+}
+
+.videoDescriptionBox {
+  display: flex;
+  flex-direction: column;
+  width: 10vw;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.view-text {
+  font-size: 12px;
+  margin-right: 10px;
+}
+
+.channelImageUrl {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.failure-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  height: 150vh;
+}
+
+.failure-img {
+  height: 50vh;
+  width: 40vw;
+  align-self: center;
+}
+
+.failure-heading {
+  font-size: 22px;
+}
+
+.retry-button {
+  color: #ffffff;
+  background-color: #3b82f6;
+  border-color: #3b82f6;
+  height: 4vh;
+  width: 5vw;
+  border-radius: 6px;
+}
+
+.products-details-loader-container {
+  display: flex;
+  height: 50vh;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.link-styling {
+  text-decoration: none;
+  color: #000000;
+}

@@ -1,0 +1,62 @@
+.video-page {
+  display: flex;
+  height: 100vh;
+}
+
+.video-player-container {
+  width: 120vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 13px;
+  margin-top: 14px;
+}
+
+.vdoDescription-div {
+  display: flex;
+}
+
+.pop-up {
+  width: '80vw';
+  height: '60vh';
+}
+
+.video-info {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.description-div {
+  display: flex;
+  width: 80vw;
+  justify-content: space-between;
+}
+
+.video-desc-buttons {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.channel-details {
+  display: flex;
+  align-items: center;
+}
+
+.channel-profile-image {
+  height: 5vh;
+  width: 4vw;
+}
+
+.products-details-loader-container {
+  display: flex;
+  width: 80vw;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  justify-self: center;
+}
